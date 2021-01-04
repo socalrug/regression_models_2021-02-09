@@ -63,7 +63,7 @@ You have two options for working with the code examples and exercises for the wo
 
 ### Using RStudio Cloud
 1. Create a free account on RStudio Cloud: [https://rstudio.cloud](https://rstudio.cloud)
-2. Go to the workshop project: [https://rstudio.cloud/project/1683550](https://rstudio.cloud/project/1683550)
+2. Go to the workshop project: [https://rstudio.cloud/project/2051108](https://rstudio.cloud/project/2051108)
 3. At the top of the project window, Click "Save a Permanent Copy" — it's by the flashing red "Temporary Project" sign.
 4. The project and all its files will now be in your own Personal workspace.  You have 15 free hours per month using RStudio Cloud.
 

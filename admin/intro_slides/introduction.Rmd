@@ -133,7 +133,7 @@ knitr::include_graphics('pablo.png')
 
 .large[
 * RStudio Cloud
-  * https://rstudio.cloud/project/1683550
+  * https://rstudio.cloud/project/2051108
 * Personal computer
   * Install the package: rcompanion
 ]
