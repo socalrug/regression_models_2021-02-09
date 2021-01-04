@@ -32,11 +32,11 @@ This event will be held on Zoom. You will need a Zoom account in order to join. 
 **Registration**
 
 * Cost: $10
-* Register through [EventBright](https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555)
+* Register through [EventBright](https://www.eventbrite.com/e/ocrug-modeling-normally-distributed-data-with-repeated-measures-tickets-135236340535)
 
 ## Rules
 
-* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555) and have a valid ticket to attend.
+* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-modeling-normally-distributed-data-with-repeated-measures-tickets-135236340535)
 
 * All participants must abide by the [OCRUG Code of Conduct](https://github.com/ocrug/advanced_regression/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 
