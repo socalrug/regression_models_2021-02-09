@@ -23,7 +23,12 @@ You have two options for working with the code examples and exercises for the wo
 1. If you do not know how to use Git, download the course files by clicking the green "Code" button and select "Download ZIP".
 1. If you do know how to use Git, clone the repo to your computer
 1. Unzip the files (or go to the directory where you cloned the repository), and double click the file called regression_models_2021-02-09.Rproj.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises
-1. Install the rcompanion package.
+1. Install the following packages:
+    1. rshape2
+    1. rcompanion
+    1. nlme
+    1. geepack
+    1. MuMIn
 
 ## Using Rstudio Cloud
 

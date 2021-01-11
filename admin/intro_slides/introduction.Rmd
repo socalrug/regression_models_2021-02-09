@@ -135,7 +135,12 @@ knitr::include_graphics('pablo.png')
 * RStudio Cloud
   * https://rstudio.cloud/project/2051108
 * Personal computer
-  * Install the package: rcompanion
+  * Install the packages:
+    * reshape2
+    * rcompanion
+    * nlme
+    * geepack
+    * MuMIn
 ]
 
 ---
