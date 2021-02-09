@@ -61,10 +61,10 @@ You have two options for working with the code examples and exercises for the wo
 3. Unzip the files (or go to the directory where you cloned the repository), and double click the file called `project.Rproj`.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises.
 4. Install the following packages
     * `reshape2`
-    * `rcomponion`
+    * `rcompanion`
     * `nlme`
     * `geepack`
-    * `MuMln`
+    * `MuMIn`
 
 ### Using RStudio Cloud
 1. Create a free account on RStudio Cloud: [https://rstudio.cloud](https://rstudio.cloud)
