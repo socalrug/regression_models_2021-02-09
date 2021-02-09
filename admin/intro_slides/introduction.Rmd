@@ -171,8 +171,6 @@ knitr::include_graphics('olga.jpg')
 
 .large[
 * Course is based on the book
-* PDF copy of the book and solution manual in Github repo
-  **please do not share**
 * Buy it on [Amazon](https://www.amazon.com/dp/B07L1B143S/)
 ]]
 

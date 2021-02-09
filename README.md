@@ -58,7 +58,13 @@ You have two options for working with the code examples and exercises for the wo
 2. Download the examples and exercises code from the workshop GitHub repository: [https://github.com/ocrug/regression_models_2021-02-09](https://github.com/ocrug/regression_models_2021-02-09)
 	1. If you don't know how to use Git, download the course files by clicking the green "Code" button and select "Download ZIP".
 	2. If you do know how to use Git, clone the repo to your computer
-3. Unzip the files (or go to the directory where you cloned the repository), and double click the file called `project.Rproj`.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises
+3. Unzip the files (or go to the directory where you cloned the repository), and double click the file called `project.Rproj`.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises.
+4. Install the following packages
+    * `reshape2`
+    * `rcomponion`
+    * `nlme`
+    * `geepack`
+    * `MuMln`
 
 ### Using RStudio Cloud
 1. Create a free account on RStudio Cloud: [https://rstudio.cloud](https://rstudio.cloud)
