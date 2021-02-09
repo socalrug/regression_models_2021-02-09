@@ -20,4 +20,9 @@
 * RStudio Cloud
   - https://rstudio.cloud/project/2051108
 * Personal computer
-  - install the package: rcompanion
+  - install the packages: 
+    - reshape2
+    - rcompanion
+    - nlme
+    - geepack
+    - MuMln
